@@ -34,7 +34,7 @@ const Footer = ({ padding }) => {
                 </div>
             </div >
             <div className="text-center text-xs mt-8 pb-4">
-                &copy; {new Date().getFullYear()} AMFOS. All rights reserved.
+                &copy; {new Date().getFullYear()} AMFOS. All reserved.
             </div>
         </footer >
     );
